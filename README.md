@@ -4,7 +4,8 @@ Solves for nodal displacements in a frame construction.
 
 
 Given a construction consisting of
-  - A number of nodes
+  - A set of nodes in [x, y] coordinates
+  - 
 
 
 
