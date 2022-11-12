@@ -7,9 +7,7 @@
 
 
 %% Example
- % Use script "testScript2_github" in "tester_work_dir" to replicate results.
- % Run the last two lines to get nodal displacements,
-    % dun kno why they dont appear when script is run...
+
 
 % Construction
 
