@@ -24,5 +24,5 @@ Displacements in [x, y] for points B, C and E:
   - Cx = 1.43mm, Cy = -7.09mm
   - Ex = -1.15mm, Ey = -4.28mm
 
-![Image](solution.jpg?raw=true)
+![Image](solution_plot.jpg?raw=true)
 Note the solution has been scaled by a factor of 50 to make the displacements visible.
