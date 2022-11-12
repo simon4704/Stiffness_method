@@ -12,7 +12,7 @@ Given a construction consisting of
 returns a vector with nodal displacements, including both translation in [x, y] and rotation.
 
 
-Below is shown an example frame with parameters: E = 210*10^3
+Below is shown an example frame with parameters: E = 210GPA, b = 80mm, h = 150mm, L = 5000mm
 
 
 
