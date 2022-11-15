@@ -20,7 +20,7 @@
 % D----------E
 
 
-% Given parameters (all in mm and corresponding)
+% Given parameters (all in SI units)
 
 E = 210e9;
 L = 5;
